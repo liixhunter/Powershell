@@ -1,4 +1,4 @@
-powercat
+powercat by @besimorhino
 ========
 Netcat: The powershell version. (Powershell Version 2 and Later Supported)
 
